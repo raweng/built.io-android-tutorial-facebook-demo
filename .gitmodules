@@ -1,0 +1,3 @@
+[submodule "built.io-android-sdk"]
+	path = built.io-android-sdk
+	url = https://github.com/raweng/built.io-android-sdk.git
