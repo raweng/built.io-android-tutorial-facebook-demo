@@ -1,4 +1,4 @@
 built.io-android-tutorial-facebook-demo
 =======================================
 
-This app gives a facility to get login with Facebook account with built.io.
+This tutorial demonstrates how to sign in a user to built.io using their facebook account.
